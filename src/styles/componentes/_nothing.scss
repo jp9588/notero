@@ -1,0 +1,16 @@
+.nothing__selected{
+    align-items: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    background-color: $primary;
+    justify-content: center;
+    height: 100vh;
+    padding: 10px;
+
+    p{
+        text-align: center;
+    }
+
+
+}
